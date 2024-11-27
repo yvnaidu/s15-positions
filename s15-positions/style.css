@@ -1,0 +1,46 @@
+.cabinetMinisters{
+    width: 250px;
+    height: 250px;
+}
+
+#pawanKalyanPic{
+    position: relative;
+    left: 100px;
+}
+
+#chandraBabuPic{
+    position: relative;
+    z-index: 21;
+}
+
+#naraLokeshPic{
+    position: relative;
+    right: 100px;
+    z-index: 20;
+}
+
+#anithaPic{
+    position: relative;
+    left: 200px;
+}
+
+#manoharPic{
+    position: relative;
+    right: 200px;
+}
+
+.andhraPradeshLogo{
+    width: 100px;
+    position: fixed;
+    right: 20px;
+    filter: drop-shadow(10px 10px 10px yellow);
+    z-index: 22;
+}
+
+#apHeading{
+    background-color: yellow;
+    position: sticky;
+    top: 0px;
+    left: 0px;
+    z-index: 21;
+}
